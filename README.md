@@ -1,0 +1,2 @@
+# BREAST-CANCER-PREDICTION
+Breast Cancer Prediction using 8 classiﬁcation algorithm : Logistic Regression,Support Vector Machine(linear kernel),Support Vector Machine(polynomial kernel),Ensemble Learning Method of Decision Tree,Random Forest,Adaboost Classiﬁer, and lastly voting algorithm based on Logistic Regression,Support Vector Machine(polynomial kernel) and Decision tree. Finally project presented with Python Graphical User Interface using the 2 algorithms having the maximum accuracy : Support Vector Machine(polynomial kernel) and Logistic Regression.
